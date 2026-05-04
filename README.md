@@ -1,5 +1,5 @@
 # unidad_educativa_GAB
-Plataforma educativa integral para la Unidad Educativa Gustavo Adolfo Bécquer, diseñada para optimizar la gestión académica.
+Prototipo - Plataforma educativa integral para la Unidad Educativa Gustavo Adolfo Bécquer, diseñada para optimizar la gestión académica.
 # 🛠 Tecnologías:
 Frontend: React (Hooks, Context API, Material-UI/TailwindCSS).
 Backend: Node.js + Express.
@@ -24,9 +24,18 @@ Despliegue: Docker (opcional), Vercel/Netlify (frontend), Heroku/Render (backend
 * Instalar dependencias (npm install en /backend y /frontend).
 * Configurar variables de entorno (ej: .env para conexiones a BD).
 * Ejecutar en modo desarrollo:
-
 * Backend: npm run dev (nodemon).
-* Frontend: npm start.
+  
+# Propuesta del prototipo
+<div>
+    <a href="https://www.loom.com/share/afe9abef6db2443b9d405b74e21b523a">
+      <p>Presentación del prototipo de la página web de la unidad educativa Gustavo Adolfo Becker 🌐</p>
+    </a>
+    <a href="https://www.loom.com/share/afe9abef6db2443b9d405b74e21b523a">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/afe9abef6db2443b9d405b74e21b523a-2733744d2ea340f6-full-play.gif#t=0.1">
+    </a>
+  </div>
+
 
 
 
