@@ -2,10 +2,10 @@
 Prototipo - Plataforma educativa integral para la Unidad Educativa Gustavo Adolfo Bécquer, diseñada para optimizar la gestión académica.
 # 🛠 Tecnologías:
 Frontend: React (Hooks, Context API, Material-UI/TailwindCSS).
-Backend: Node.js + Express.
-Base de datos: MongoDB (o MySQL, según preferencia).
+Backend: Node.js + TypeScript.
+Base de datos: MongoDB.
 Autenticación: JWT + Bcrypt.
-Despliegue: Docker (opcional), Vercel/Netlify (frontend), Heroku/Render (backend).
+Despliegue:  Vercel/Netlify.
 # Capturas
 <img width="1920" height="889" alt="2026-05-04 10 15 29" src="https://github.com/user-attachments/assets/4f21c083-08cc-4033-b019-d59ac0f16bb7" />
 </br>
