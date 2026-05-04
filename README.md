@@ -18,6 +18,10 @@ Despliegue:  Vercel/Netlify.
 <img width="1907" height="861" alt="2026-05-04 10 15 30" src="https://github.com/user-attachments/assets/a0d09469-f007-48e7-b83e-3f9d73705b49" />
 </br>
 <img width="1880" height="795" alt="2026-05-04 10 15 31" src="https://github.com/user-attachments/assets/88e72e3f-9e5a-4c64-a17e-77153488449a" />
+</br>
+<img width="522" height="650" alt="2026-05-04 10 56 22" src="https://github.com/user-attachments/assets/5b23f08c-2c53-4a99-b9ac-7372b04aa864" />
+</br>
+<img width="910" height="674" alt="2026-05-04 10 56 23 (2)" src="https://github.com/user-attachments/assets/a9c3baae-c31a-4ab5-a712-712849350c68" />
 
 # Guía ejecución del proyecto
 * Clonar el repositorio.
