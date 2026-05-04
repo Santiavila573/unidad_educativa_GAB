@@ -1,4 +1,4 @@
-# unidad_educativa_GAB
+# Plataforma UEGAB
 Prototipo - Plataforma educativa integral para la Unidad Educativa Gustavo Adolfo Bécquer, diseñada para optimizar la gestión académica.
 # 🛠 Tecnologías:
 Frontend: React (Hooks, Context API, Material-UI/TailwindCSS).
