@@ -22,13 +22,6 @@ Despliegue:  Vercel/Netlify.
 <img width="522" height="650" alt="2026-05-04 10 56 22" src="https://github.com/user-attachments/assets/5b23f08c-2c53-4a99-b9ac-7372b04aa864" />
 </br>
 <img width="910" height="674" alt="2026-05-04 10 56 23 (2)" src="https://github.com/user-attachments/assets/a9c3baae-c31a-4ab5-a712-712849350c68" />
-
-# Guía ejecución del proyecto
-* Clonar el repositorio.
-* Instalar dependencias (npm install en /backend y /frontend).
-* Configurar variables de entorno (ej: .env para conexiones a BD).
-* Ejecutar en modo desarrollo:
-* Backend: npm run dev (nodemon).
   
 # Propuesta del prototipo
 <div>
@@ -39,3 +32,10 @@ Despliegue:  Vercel/Netlify.
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/afe9abef6db2443b9d405b74e21b523a-2733744d2ea340f6-full-play.gif#t=0.1">
     </a>
   </div>
+
+  # Guía ejecución del proyecto
+* Clonar el repositorio.
+* Instalar dependencias (npm install en /backend y /frontend).
+* Configurar variables de entorno (ej: .env para conexiones a BD).
+* Ejecutar en modo desarrollo:
+* Backend: npm run dev (nodemon).
