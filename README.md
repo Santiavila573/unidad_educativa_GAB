@@ -35,10 +35,3 @@ Despliegue: Docker (opcional), Vercel/Netlify (frontend), Heroku/Render (backend
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/afe9abef6db2443b9d405b74e21b523a-2733744d2ea340f6-full-play.gif#t=0.1">
     </a>
   </div>
-
-
-
-
-
-
->>>>>>> 9f90d5e51b9cceb4474ea9dc08fe11cf6d1caf2b
